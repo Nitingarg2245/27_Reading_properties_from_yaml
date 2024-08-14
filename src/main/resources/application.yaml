@@ -1,0 +1,5 @@
+app:
+  messages:
+    greet: good morning bro
+    welcome: welcome to project developments
+
